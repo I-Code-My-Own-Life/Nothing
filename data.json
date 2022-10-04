@@ -1,0 +1,23 @@
+{
+    "data": [
+    {
+    "rank":"1st",
+    "name":"Paul",
+    "score":100000
+    },
+    {
+    "rank":"2nd",
+    "name":"Neo",
+    "score":9000
+    },
+    {
+    "rank":"3rd",
+    "name":"Usman",
+    "score":8500
+    },
+    {
+    "rank":"4th",
+    "name":"...",
+    "score":""
+    }]
+}
